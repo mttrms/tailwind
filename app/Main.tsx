@@ -89,3 +89,5 @@ export default function Home({ posts }) {
     </>
   )
 }
+
+const someVar = "testing";
